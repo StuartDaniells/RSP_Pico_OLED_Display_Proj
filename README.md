@@ -1,7 +1,7 @@
+### To display custom messages with time intervals on an OLED dislay utilizing a Raspberry Pi Pico microcontroller.
+
 ## Video:
 https://youtu.be/aEoX2eRExoA
-
-### To display custom messages with time intervals on an OLED dislay utilizing a Raspberry Pi Pico microcontroller.
 
 ## MicroPython Firmware for Pico board:
 https://www.raspberrypi.com/documentation/microcontrollers/micropython.html#what-is-micropython 
