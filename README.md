@@ -1,4 +1,4 @@
-### To display custom serial data (SDA) and a serial clock signal (SDL) with time intervals on an OLED dislay utilizing a Raspberry Pi Pico microcontroller.
+### To display custom messages with sleep time intervals, sent via the serial data (SDA) and a serial clock line (SDL) pins on the OLED dislay utilizing a Raspberry Pi Pico microcontroller.
 
 ## Video:
 https://youtu.be/aEoX2eRExoA
